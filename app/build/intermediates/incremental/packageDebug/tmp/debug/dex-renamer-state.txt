@@ -1,0 +1,7 @@
+#Tue Feb 02 21:20:29 ICT 2021
+base.0=D\:\\Tugas Kampus\\Semester 5\\Pemrograman Mobile\\Android\\Pertemuan 14 - Andi Kurniawan\\Membuat Form\\Aplikasi Biodata\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Tugas Kampus\\Semester 5\\Pemrograman Mobile\\Android\\Pertemuan 14 - Andi Kurniawan\\Membuat Form\\Aplikasi Biodata\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
